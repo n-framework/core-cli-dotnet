@@ -180,7 +180,7 @@ _terminal.RenderTable(
         ["Name", "Version", "Description"],
         [
             new TerminalTableRow(["nfw", "1.0.0", "NFramework CLI"]),
-            new TerminalTableRow(["core-cli", "1.0.0", "Core CLI abstractions"]),
+            new TerminalTableRow(["NFramework.Core.CLI", "1.0.0", "Core CLI abstractions"]),
         ]
     )
 );

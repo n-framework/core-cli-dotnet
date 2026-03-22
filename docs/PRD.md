@@ -1,14 +1,14 @@
-# Product Requirements Document: NFramework Core-CLI Package
+# Product Requirements Document: NFramework NFramework.Core.CLI Package
 
 ## Executive Summary
 
-The NFramework Core-CLI package provides a compile-time-first CLI abstraction layer for .NET 11 applications. It enables developers to build rich command-line interfaces using attribute-based configuration while maintaining clean architecture boundaries and supporting Native AOT compilation. The package leverages Roslyn source generators to eliminate runtime reflection and create Spectre.Console-compatible boilerplate code automatically.
+The NFramework NFramework.Core.CLI package provides a compile-time-first CLI abstraction layer for .NET 11 applications. It enables developers to build rich command-line interfaces using attribute-based configuration while maintaining clean architecture boundaries and supporting Native AOT compilation. The package leverages Roslyn source generators to eliminate runtime reflection and create Spectre.Console-compatible boilerplate code automatically.
 
 ## 1. Introduction
 
 ### 1.1 Purpose
 
-The Core-CLI package serves as the foundational layer for building command-line applications within the NFramework ecosystem. It provides:
+The NFramework.Core.CLI package serves as the foundational layer for building command-line applications within the NFramework ecosystem. It provides:
 
 - **Clean Architecture Support**: Abstractions that enable testable and maintainable CLI applications
 - **Spectre.Console Integration**: Rich UI capabilities including prompts, selections, and tables
