@@ -14,9 +14,6 @@
   <Folder Name="/tests/integration/NFramework.Core.CLI.Abstractions.Tests/">
     <Project Path="tests/integration/NFramework.Core.CLI.Abstractions.Tests/NFramework.Core.CLI.Abstractions.Tests.csproj" />
   </Folder>
-  <Folder Name="/tests/integration/NFramework.Core.CLI.SpectreConsoleUI.Generators.Tests/">
-    <Project Path="tests/integration/NFramework.Core.CLI.SpectreConsoleUI.Generators.Tests/NFramework.Core.CLI.SpectreConsoleUI.Generators.Tests.csproj" />
-  </Folder>
   <Folder Name="/tests/unit/" />
   <Folder Name="/tests/unit/NFramework.Core.CLI.Abstractions/">
     <Project Path="tests/unit/NFramework.Core.CLI.Abstractions/NFramework.Core.CLI.Abstractions.Tests.csproj" />
