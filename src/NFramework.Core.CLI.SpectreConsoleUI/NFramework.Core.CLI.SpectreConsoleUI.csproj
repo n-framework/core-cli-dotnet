@@ -28,7 +28,7 @@
     <Title>NFramework Core CLI Spectre Console UI</Title>
     <Description>Spectre.Console-based CLI UI components for NFramework.</Description>
     <PackageTags>cli; spectre; console; ui; nframework</PackageTags>
-    <RepositoryUrl>https://github.com/n-framework/n-framework-core-cli</RepositoryUrl>
+    <RepositoryUrl>https://github.com/n-framework/core-cli-dotnet</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
   </PropertyGroup>
 

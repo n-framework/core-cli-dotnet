@@ -29,7 +29,7 @@
     <Title>NFramework Core CLI Spectre Console UI Source Generators</Title>
     <Description>Source generators for Spectre.Console CLI components in NFramework.</Description>
     <PackageTags>cli; generators; roslyn; spectre; nframework</PackageTags>
-    <RepositoryUrl>https://github.com/n-framework/n-framework-core-cli</RepositoryUrl>
+    <RepositoryUrl>https://github.com/n-framework/core-cli-dotnet</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <IncludeSymbols>true</IncludeSymbols>
     <SymbolPackageFormat>snupkg</SymbolPackageFormat>

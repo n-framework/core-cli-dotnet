@@ -28,7 +28,7 @@
     <Title>NFramework Core CLI Abstractions</Title>
     <Description>Core CLI abstractions for building command-line interfaces with NFramework.</Description>
     <PackageTags>cli; abstractions; command-line; nframework</PackageTags>
-    <RepositoryUrl>https://github.com/n-framework/n-framework-core-cli</RepositoryUrl>
+    <RepositoryUrl>https://github.com/n-framework/core-cli-dotnet</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
   </PropertyGroup>
 </Project>
