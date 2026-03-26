@@ -367,5 +367,3 @@ This project is licensed under the **Apache License 2.0** - see the [LICENSE](LI
 
 - [NFramework](https://github.com/n-framework/n-framework) — The parent framework
 - [NFramework.Core.Template](../n-framework-core-template) — Template engine library
-
-
