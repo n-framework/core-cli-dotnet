@@ -1,9 +1,16 @@
 # NFramework.Core.CLI
 
-A compile-time-first CLI application framework for .NET 11+ that enables developers to build command-line interfaces using declarative attributes and source-generated boilerplate.
-
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![NuGet](https://img.shields.io/nuget/v/NFramework.Core.CLI.Abstractions)](https://www.nuget.org/packages/NFramework.Core.CLI.Abstractions/)
 [![NuGet](https://img.shields.io/nuget/v/NFramework.Core.CLI.SpectreConsoleUI)](https://www.nuget.org/packages/NFramework.Core.CLI.SpectreConsoleUI/)
+[![Buy A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?logo=buy-me-a-coffee&logoColor=black&style=flat)](https://ahmetcetinkaya.me/donate)
+
+A compile-time-first CLI application framework for .NET 11+ that enables developers to build command-line interfaces using declarative attributes and source-generated boilerplate.
+
+**Core Techs:**
+[![.NET 11](https://img.shields.io/badge/.NET%2011-512BD4?style=flat&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com)
+[![C#](https://img.shields.io/badge/C%23-68217A?style=flat&logo=csharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
+[![Spectre.Console](https://img.shields.io/badge/Spectre.Console-000000?style=flat)](https://spectreconsole.net)
 
 ## Features
 
@@ -344,24 +351,21 @@ dotnet publish -c Release -r linux-x64 --self-contained
 dotnet publish -c Release -r osx-x64 --self-contained
 ```
 
+---
+
 ## Contributing
 
-Contributions are welcome! Please read our [contributing guidelines](../../CONTRIBUTING.md) before submitting PRs.
+For development setup and contribution guidelines, see **[CONTRIBUTING.md](../../docs/CONTRIBUTING.md)**.
 
-## License
+---
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## 📄 License
+
+This project is licensed under the **Apache License 2.0** - see the [LICENSE](LICENSE) file for details.
 
 ## Related Packages
 
 - [NFramework](https://github.com/n-framework/n-framework) — The parent framework
-- [nfw CLI](../../) — The developer-facing CLI tool
+- [NFramework.Core.Template](../n-framework-core-template) — Template engine library
 
-## Acknowledgments
 
-Built with:
-
-- [Spectre.Console](https://spectreconsole.net/) — Rich console output
-- [Spectre.Console.Cli](https://github.com/spectreconsole/spectre.console) — Command parsing
-- [Microsoft.CodeAnalysis](https://github.com/dotnet/roslyn) — Source generation
-- [Scriban](https://github.com/scriban/scriban) — Template rendering
